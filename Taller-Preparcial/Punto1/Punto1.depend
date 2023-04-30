@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1682822034 source:c:\users\zharick\desktop\lenguaje-c\taller-preparcial\punto1\main.c
+	<stdio.h>
+	<stdlib.h>
+
