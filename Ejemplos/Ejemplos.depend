@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683752044 source:c:\users\zharick\desktop\lenguaje-c\ejemplos\main.c
+	<stdio.h>
+	<stdlib.h>
+
